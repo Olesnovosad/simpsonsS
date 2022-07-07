@@ -1,0 +1,25 @@
+body{
+    background: bisque;
+}
+h2{
+    text-align: center;
+    border: solid;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+p{
+    color: black;
+}
+.family{
+text-align: center;
+}
+.homer{
+    margin-left: 100px;
+}
+img{
+    width: 100px
+;
+}
